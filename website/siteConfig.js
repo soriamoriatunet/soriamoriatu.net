@@ -86,6 +86,8 @@ const siteConfig = {
 
   /* On page navigation for the current documentation page */
   onPageNav: 'separate',
+  cleanUrl: true, 
+  cname: 'soriamoriatu.net',
 
   /* Open Graph and Twitter card images */
   // ogImage: 'img/docusaurus.png',
