@@ -1,6 +1,17 @@
 /* your custom css */
 
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
+  /* .headerTitleWithLogo {
+    display: block !important;
+    size: a3;
+  } */
+}
+
+@media (max-width: 480px) {
+  .headerTitleWithLogo {
+    display: block !important;
+    size: a3;
+  }
 }
 
 @media only screen and (min-width: 1024px) {
